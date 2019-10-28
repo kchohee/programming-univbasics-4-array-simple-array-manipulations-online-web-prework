@@ -42,20 +42,20 @@ end
 
 #9
 def using_uniq(ray)
-
+ray.uniq
 end
 
 #10
-#def using_flatten(instruments)
-#
-#end
+def using_flatten(ray)
+ray.flatten
+end
 
 #11
-#def using_delete (instructors, "Steven")
-#
-#end
+def using_delete (ray, "Cho")
+ray.delete("Cho")
+end
 
 #12
-#def using_delete_at(famous_robots, 2)
-#
-#end
+def using_delete_at(ray, 2)
+ray.delete(2)
+end
