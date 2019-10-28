@@ -46,16 +46,16 @@ ray.uniq
 end
 
 #10
-def using_flatten(ray)
+#def using_flatten(ray)
 ray.flatten
-end
+#end
 
 #11
-def using_delete (ray, "Cho")
-ray.delete("Cho")
-end
+#def using_delete (ray, "Cho")
+#ray.delete("Cho")
+#end
 
 #12
-def using_delete_at(ray, 2)
-ray.delete(2)
-end
+#def using_delete_at(ray, 2)
+#ray.delete(2)
+#end
