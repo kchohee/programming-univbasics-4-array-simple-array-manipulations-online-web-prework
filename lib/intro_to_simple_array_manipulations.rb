@@ -57,5 +57,5 @@ end
 
 #12
 def using_delete_at(ray, 2)
-ray.delete(2)
+ray.delete_at(2)
 end
