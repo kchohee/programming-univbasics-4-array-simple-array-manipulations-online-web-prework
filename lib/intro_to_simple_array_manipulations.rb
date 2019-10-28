@@ -31,8 +31,8 @@ array.shift(2)
 end
 
 #7
-#def using_concat(my_favorite_things, more_favs)
-#
+#def using_concat(ray1,ray2)
+
 #end
 
 #8
