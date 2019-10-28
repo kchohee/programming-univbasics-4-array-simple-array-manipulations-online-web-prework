@@ -41,9 +41,9 @@ ray.index(ele)
 end
 
 #9
-#def using_uniq(haircuts)
-#
-#end
+def using_uniq(ray)
+
+end
 
 #10
 #def using_flatten(instruments)
