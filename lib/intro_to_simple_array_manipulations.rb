@@ -18,6 +18,7 @@ end
 def pop_with_args(array)
 array.pop(2)
 return array
+end
 array.last(2)
 return array
 end
