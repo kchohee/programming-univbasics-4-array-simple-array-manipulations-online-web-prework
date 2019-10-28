@@ -47,7 +47,7 @@ end
 
 #10
 #def using_flatten(ray)
-ray.flatten
+#ray.flatten
 #end
 
 #11
