@@ -38,7 +38,6 @@ end
 #8
 def using_insert(ray, ele)
 ray.insert(index, ele)
-return ray
 end
 
 #9
