@@ -20,7 +20,6 @@ array.pop(2)
 return array
 array.push("Chihuahua", "Shiba Inu")
 return array
-new_array = array
 end
 
 #5
