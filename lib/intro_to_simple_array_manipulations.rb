@@ -46,9 +46,9 @@ ray.uniq
 end
 
 #10
-#def using_flatten(ray)
-#ray.flatten
-#end
+def using_flatten(ray)
+ray.flatten
+end
 
 #11
 #def using_delete (ray, "Cho")
