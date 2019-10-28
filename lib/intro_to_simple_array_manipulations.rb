@@ -32,7 +32,7 @@ end
 
 #7
 #def using_concat(ray1,ray2)
-
+ray1.concat(ray2)
 #end
 
 #8
