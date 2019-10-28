@@ -15,9 +15,9 @@ continents.pop
 end
 
 #4
-def pop_with_args(dog_breeds)
-dog_breeds.pop
-dog_breeds.pop
+def pop_with_args(array)
+array.pop
+array.pop
 return dog_breeds
 end
 
