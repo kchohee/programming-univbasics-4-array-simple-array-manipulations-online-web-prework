@@ -36,9 +36,9 @@ ray1.concat(ray2)
 end
 
 #8
-#def using_insert(ray, ele)
-#ray.index(ele)
-#end
+def using_insert(ray, ele)
+ray.index(ele)
+end
 
 #9
 #def using_uniq(ray)
