@@ -29,7 +29,6 @@ end
 #6
 def shift_with_args(array)
 array.shift(2)
-return array
 end
 
 #7
