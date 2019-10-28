@@ -52,7 +52,7 @@ end
 
 #11
 def using_delete(ray,"stuff")
-ray.delete("stuff")
+ray.delete(stuff)
 end
 
 #12
