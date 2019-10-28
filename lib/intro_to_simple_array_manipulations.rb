@@ -41,9 +41,9 @@ ray.insert(4, ele)
 end
 
 #9
-#def using_uniq(ray)
-#ray.uniq
-#end
+def using_uniq(ray)
+ray.uniq
+end
 
 #10
 #def using_flatten(ray)
