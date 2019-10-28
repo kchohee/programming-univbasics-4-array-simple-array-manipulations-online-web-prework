@@ -18,8 +18,7 @@ end
 def pop_with_args(array)
 array.pop(2)
 return array
-array.push("Chihuahua")
-return array
+array << "Chihuahua"
 array.push("Shiba Inu")
 return array
 end
