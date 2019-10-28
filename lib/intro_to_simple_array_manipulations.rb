@@ -51,7 +51,7 @@ ray.flatten
 end
 
 #11
-def using_delete (ray, "Cho")
+def using_delete(ray, "Cho")
 ray.delete("Cho")
 end
 
