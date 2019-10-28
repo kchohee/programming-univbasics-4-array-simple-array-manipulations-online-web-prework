@@ -16,9 +16,8 @@ end
 
 #4
 def pop_with_args(array,new_array)
-array.pop(2)
-return array
-array.push("Chihuahua", "Shiba Inu")
+array.pop
+array.pop
 return array
 end
 
