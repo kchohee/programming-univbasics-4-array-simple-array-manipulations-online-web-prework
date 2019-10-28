@@ -57,5 +57,5 @@ end
 
 #12
 def using_delete_at(ray, math)
-ray.delete_at(index)
+ray.delete_at(math)
 end
