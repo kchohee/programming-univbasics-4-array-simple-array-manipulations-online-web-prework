@@ -17,15 +17,13 @@ end
 #4
 def pop_with_args(array)
 array.pop(2)
-return array
-array.last(2)
-return array
 end
 
 #5
-#def using_shift(my_favorite_cities)
-#
-#end
+def using_shift(array)
+array.shift
+
+end
 
 #6
 def shift_with_args(array)
