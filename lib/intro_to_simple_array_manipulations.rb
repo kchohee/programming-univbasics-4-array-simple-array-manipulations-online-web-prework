@@ -15,12 +15,12 @@ continents.pop
 end
 
 #4
-def pop_with_args(array)
+def pop_with_args(array,new_array)
 array.pop(2)
 return array
-array.push("Chihuahua")
-array.push("Shiba Inu")
+array.push("Chihuahua", "Shiba Inu")
 return array
+new_array = array
 end
 
 #5
