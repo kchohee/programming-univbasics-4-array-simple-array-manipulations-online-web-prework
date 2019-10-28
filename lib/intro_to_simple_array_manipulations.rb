@@ -37,7 +37,7 @@ end
 
 #8
 def using_insert(ray, ele)
-ray.index(ele)
+ray.insert(index, ele)
 return ray
 end
 
