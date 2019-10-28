@@ -37,7 +37,7 @@ end
 
 #8
 def using_insert(ray, ele)
-ray.insert(-1, ele)
+ray.insert(4, ele)
 end
 
 #9
